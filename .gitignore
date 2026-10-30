@@ -1,0 +1,3 @@
+data/*.txt
+includes/config.local.php
+.env
